@@ -1,4 +1,4 @@
-1. Create a file called `<font name>/Install.md`. Copy the below text to use a template. Replace `<font name>` with the name of the font.
+1. Create a file called `<font name>/Install.md`. Copy the below text to use a template. Replace `<font name>` with the name of the font. Replace the underscore in the second set of dashes with a dash.
 <pre>
 Install Option 1
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -22,6 +22,7 @@ To install the font, copy the `@font-face` rule and paste it into a CSS file or 
     }
     </style>
     <p class="example1">Hello world!</p>
+
 Install Option 2
 -----------------------------------------------------------_---------------------------------------------------------------------
 To install the font, copy the `@import` rule and paste it into a CSS file or in the HTML document (inbetween a set of `style`
