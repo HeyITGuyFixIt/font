@@ -1,7 +1,13 @@
 <style>
 @font-face {
       font-family: "Moon Flower";
-      src: url(https://github.com/heyitguyfixit/font/raw/master/Moon%20Flower%20Bold.ttf) format("truetype");
+      src: url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.eot);
+      src: url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.ttf) format("truetype"),
+            url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.woff) format("woff"),
+            url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.svg) format("svg");
+      unicode-range: U+?????;
+      font-style: normal;
+      font-weight: 400;
 }
 
 p .example { 
