@@ -2,7 +2,7 @@ Install Option 1
 ---------------------------------------------------------------------------------------------------------------------------------
 To install the font, copy the `@font-face` rule and paste it into a CSS file or in the HTML document (inbetween a set of `style`
       tags). Example on how to apply it are below it.
----------------------------------------------------------------------------------------------------------------------------------
+
     <style>
     @font-face {
           font-family: "Moon Flower";
@@ -26,7 +26,7 @@ Install Option 2
 ---------------------------------------------------------------------------------------------------------------------------------
 To install the font, copy the `@import` rule and paste it into a CSS file or in the HTML document (inbetween a set of `style`
       tags). Example on how to apply it are below it.
----------------------------------------------------------------------------------------------------------------------------------
+
     <style>
     @import url("https://cdn.rawgit.com/heyitguyfixit/font/20c97087/Moon%20Flower/Moon_Flower.css")
 
