@@ -28,7 +28,7 @@ To install the font, copy the `@import` rule and paste it into a CSS file or in 
       tags). Example on how to apply it are below it.
 
     <style>
-    @import url("https://cdn.rawgit.com/heyitguyfixit/font/20c97087/Moon%20Flower/Moon_Flower.css")
+    @import url("https://cdn.rawgit.com/heyitguyfixit/font/master/Moon%20Flower/Moon_Flower.css")
 
     p .example2 { 
           font-family: "Moon Flower";
