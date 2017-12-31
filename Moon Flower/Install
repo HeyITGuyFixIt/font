@@ -1,0 +1,11 @@
+<style>
+@font-face {
+      font-family: "Moon Flower";
+      src: url(https://github.com/heyitguyfixit/font/raw/master/Moon%20Flower%20Bold.ttf) format("truetype");
+}
+
+p .example { 
+      font-family: "Moon Flower";
+}
+</style>
+<p class="example">Hello world!</p>
