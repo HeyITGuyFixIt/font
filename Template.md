@@ -22,7 +22,7 @@ To install the font, copy the `@font-face` rule and paste it into a CSS file or 
     }
     </style>
     <p class="example1">Hello world!</p>
-Install Option 2
+    Install Option 2
 ---------------------------------------------------------------------------------------------------------------------------------
 To install the font, copy the `@import` rule and paste it into a CSS file or in the HTML document (inbetween a set of `style`
       tags). Example on how to apply it are below it.
