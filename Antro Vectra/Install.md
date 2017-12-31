@@ -25,11 +25,11 @@ Install Option 2
 To install the font, copy the @import rule and paste it into a CSS file or in the HTML document (inbetween a set of style
 tags). Example on how to apply it are below it.
 
-<style>
-@import url("https://cdn.rawgit.com/heyitguyfixit/font/master/Antro%20Vectra/Antro_Vectra.css")
+      <style>
+      @import url("https://cdn.rawgit.com/heyitguyfixit/font/master/Antro%20Vectra/Antro_Vectra.css")
 
-p .example2 { 
-      font-family: "Antro Vectra";
-}
-</style>
-<p class="example2">Hello world!</p>
+      p .example2 { 
+            font-family: "Antro Vectra";
+      }
+      </style>
+      <p class="example2">Hello world!</p>
