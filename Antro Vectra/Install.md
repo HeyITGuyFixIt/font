@@ -26,7 +26,7 @@ To install the font, copy the @import rule and paste it into a CSS file or in th
 tags). Example on how to apply it are below it.
 
       <style>
-      @import url("https://cdn.rawgit.com/heyitguyfixit/font/master/Antro%20Vectra/Antro_Vectra.css")
+      @import url("https://cdn.rawgit.com/heyitguyfixit/font/master/Antro%20Vectra/Antro_Vectra.css");
 
       p .example2 { 
             font-family: "Antro Vectra";
