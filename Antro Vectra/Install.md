@@ -6,7 +6,7 @@ To install the font, copy the `@font-face` rule and paste it into a CSS file or 
     <style>
     @font-face {
           font-family: "Antro Vectra";
-          src: url(https://cdn.rawgit.com/heyitguyfixit/font/c7565819/Antro%20Vectra/Antro_Vectra.otf) format("opentype"); /* .otf */
+          src: url(https://cdn.rawgit.com/heyitguyfixit/font/6d88bd9a/Antro%20Vectra/Antro_Vectra.otf) format("opentype"); /* .otf */
           unicode-range: U+?????;
           font-style: normal;
           font-weight: 400;
@@ -17,7 +17,7 @@ To install the font, copy the `@font-face` rule and paste it into a CSS file or 
     }
     </style>
 
-<p class="example1">Hello world!</p>
+    <p class="example1">Hello world!</p>
 
 
 Install Option 2
