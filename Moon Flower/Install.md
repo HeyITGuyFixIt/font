@@ -6,10 +6,10 @@ To install the font, copy the `@font-face` rule and paste it into a CSS file or 
     <style>
     @font-face {
           font-family: "Moon Flower";
-          src: url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.eot);
-          src: url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.ttf) format("truetype"),
-                url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.woff) format("woff"),
-                url(https://cdn.rawgit.com/heyitguyfixit/font/506b65d9/Moon%20Flower/Moon_Flower.svg) format("svg");
+          src: url(https://cdn.rawgit.com/heyitguyfixit/font/18990de1/Moon%20Flower/Moon_Flower.eot);
+          src: url(https://cdn.rawgit.com/heyitguyfixit/font/18990de1/Moon%20Flower/Moon_Flower.ttf) format("truetype"),
+                url(https://cdn.rawgit.com/heyitguyfixit/font/18990de1/Moon%20Flower/Moon_Flower.woff) format("woff"),
+                url(https://cdn.rawgit.com/heyitguyfixit/font/18990de1/Moon%20Flower/Moon_Flower.svg) format("svg");
           unicode-range: U+?????;
           font-style: normal;
           font-weight: 400;
