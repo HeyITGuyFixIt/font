@@ -1,55 +1,55 @@
 @font-face {
 	font-family: "Josefin Sans";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-Regular.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-Regular.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
 @font-face {
 	font-family: "Josefin Sans Bold";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-Bold.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-Bold.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
 @font-face {
 	font-family: "Josefin Sans Bold Italic";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-BoldItalic.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-BoldItalic.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
 @font-face {
 	font-family: "Josefin Sans Italic";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-Italic.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-Italic.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
 @font-face {
 	font-family: "Josefin Sans Light";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-Light.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-Light.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
 @font-face {
 	font-family: "Josefin Sans Light Italic";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-LightItalic.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-LightItalic.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
 @font-face {
 	font-family: "Josefin Sans Regular";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-Regular.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-Regular.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
 @font-face {
 	font-family: "Josefin Sans Semi-Bold";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-SemiBold.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-SemiBold.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
 @font-face {
 	font-family: "Josefin Sans Semi-Bold Italic";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-SemiBoldItalic.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-SemiBoldItalic.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
 @font-face {
 	font-family: "Josefin Sans Thin";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-Thin.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-Thin.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
 @font-face {
 	font-family: "Josefin Sans Thin Italic";
-	src: url("https://cdn.rawgit.com/heyitguyfixit/font/c31f413d/Josefin%20Sans/JosefinSans-ThinItalic.ttf") format("opentype"); /* .ttf */
+	src: url("https://rawcdn.githack.com/heyitguyfixit/font/c31f413d/Josefin Sans/JosefinSans-ThinItalic.ttf") format("opentype"); /* .ttf */
 	unicode-range: U+?????;
 }
